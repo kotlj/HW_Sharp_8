@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\HW_Sharp_8\HW_Sharp_8\bin\Debug\HW_Sharp_8.exe.config
+C:\Users\Admin\source\repos\HW_Sharp_8\HW_Sharp_8\bin\Debug\HW_Sharp_8.exe
+C:\Users\Admin\source\repos\HW_Sharp_8\HW_Sharp_8\bin\Debug\HW_Sharp_8.pdb
+C:\Users\Admin\source\repos\HW_Sharp_8\HW_Sharp_8\obj\Debug\HW_Sharp_8.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HW_Sharp_8\HW_Sharp_8\obj\Debug\HW_Sharp_8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\HW_Sharp_8\HW_Sharp_8\obj\Debug\HW_Sharp_8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HW_Sharp_8\HW_Sharp_8\obj\Debug\HW_Sharp_8.exe
+C:\Users\Admin\source\repos\HW_Sharp_8\HW_Sharp_8\obj\Debug\HW_Sharp_8.pdb
